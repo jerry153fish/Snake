@@ -10,8 +10,8 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
 /**
- * 这个类代表贪吃蛇的活动场所
- * @author jerry
+ * Represent the yard that snake lived
+ * @author Jerry
  * 
  */
 public class Yard extends Frame {
